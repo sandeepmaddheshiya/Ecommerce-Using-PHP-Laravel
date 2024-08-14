@@ -1,5 +1,5 @@
-Demo:
-<a href="https://www.isawi.tech/projects/shopi">Click here</a>
+<!-- Demo:
+<a href="https://www.isawi.tech/projects/shopi">Click here</a> -->
 # Setup
 ```
     composer install
@@ -9,7 +9,7 @@ Demo:
     npm install
     npm run dev && php artisan serve
 ```
-# Preview
+<!-- # Preview
 ![Screen Shot 2023-05-28 at 18 14 28](https://github.com/YusufLisawi/Shopi/assets/90868691/6c4d3cca-9c31-4fe8-bf4b-584581032edf)
 ![Screen Shot 2023-05-28 at 18 15 01](https://github.com/YusufLisawi/Shopi/assets/90868691/6f1b18fd-ade5-46e5-850d-91566f585faf)
 ![Screen Shot 2023-05-28 at 18 15 12](https://github.com/YusufLisawi/Shopi/assets/90868691/31f02ed2-bc14-41cb-9c6e-0d36b42e59e0)
@@ -23,4 +23,4 @@ Demo:
 ![Screen Shot 2023-05-28 at 18 18 01](https://github.com/YusufLisawi/Shopi/assets/90868691/9f61537b-79e4-4d85-a1ba-d0a8dbc7ef77)
 ![Screen Shot 2023-05-28 at 18 18 09](https://github.com/YusufLisawi/Shopi/assets/90868691/4bf526a8-9207-4efc-8bce-ec7f203e547c)
 ![Screen Shot 2023-05-28 at 18 18 24](https://github.com/YusufLisawi/Shopi/assets/90868691/82031c11-08c8-4718-8d11-6a927d336a05)
-![Screen Shot 2023-05-28 at 18 18 36](https://github.com/YusufLisawi/Shopi/assets/90868691/2c175a8d-5eb0-4fa7-a8a2-54f1919ffb25)
+![Screen Shot 2023-05-28 at 18 18 36](https://github.com/YusufLisawi/Shopi/assets/90868691/2c175a8d-5eb0-4fa7-a8a2-54f1919ffb25) -->
