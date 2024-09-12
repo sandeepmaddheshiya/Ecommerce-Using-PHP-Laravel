@@ -73,7 +73,7 @@ Route::middleware(['auth', 'check.user.profile'])->group(function () {
     // Checkout routes
     Route::get('checkout', [CheckoutController::class, 'index'])->name('checkout.index');
     Route::post('checkout/confirm', [CheckoutController::class, 'confirm'])->name('checkout.confirm');
-    Route::get('checkout/success', [CheckoutController::class, 'success'])->name('checkout.success');
+    Route::get('checkout/success', [CheckoutController::class, 'success'])->name('checkout.success'); 
 
 
 
