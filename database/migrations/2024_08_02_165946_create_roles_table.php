@@ -12,7 +12,7 @@ class CreateRolesTable extends Migration
             $table->id();
             $table->string('name');
             $table->string('guard_name');
-            $table->timestamps();
+            $table->timestamps(); 
         });
     }
 
