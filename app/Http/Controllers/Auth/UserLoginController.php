@@ -13,8 +13,7 @@ class UserLoginController extends Controller
     public function showLoginForm()
     {
         return view('users.user_login'); // Ensure this view file exists
-    }
-
+    } 
     // Handle the login request
     public function login(Request $request)
     {
