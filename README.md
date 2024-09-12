@@ -1,6 +1,6 @@
-#Ecommerce using php & laravel
+# Ecommerce using php & laravel
 
-##Screenshots:
+## Screenshots:
 
 ![image](https://github.com/user-attachments/assets/95fae54e-8871-40af-85da-810884a290ce)
 
