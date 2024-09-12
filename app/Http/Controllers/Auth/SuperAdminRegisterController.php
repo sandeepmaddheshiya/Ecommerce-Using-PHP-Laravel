@@ -12,7 +12,7 @@ class SuperAdminRegisterController extends Controller
 {
     public function showRegistrationForm()
     {
-        return view('superadmin.register');
+        return view('superadmin.register'); 
     }
 
     public function register(Request $request)
