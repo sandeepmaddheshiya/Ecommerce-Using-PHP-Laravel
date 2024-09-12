@@ -2,7 +2,7 @@
 
 ## Screenshots:
 
-![image](https://github.com/user-attachments/assets/95fae54e-8871-40af-85da-810884a290ce)
+![image](https://github.com/user-attachments/assets/cbd7429c-e551-4568-a0e5-c09484e765ad)
 
 ![image](https://github.com/user-attachments/assets/6cb54889-86b8-4d83-a26f-afde9311b6a7)
 
