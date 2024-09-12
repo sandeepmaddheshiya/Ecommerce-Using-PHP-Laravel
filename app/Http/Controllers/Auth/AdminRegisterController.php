@@ -13,7 +13,7 @@ class AdminRegisterController extends Controller
     {
         return view('admin.admin_register');
     }
-
+ 
     public function register(Request $request)
     {
         // Validate the request data
