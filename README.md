@@ -1,3 +1,7 @@
+#Ecommerce using php & laravel
+
+##Screenshots:
+
 ![image](https://github.com/user-attachments/assets/95fae54e-8871-40af-85da-810884a290ce)
 
 ![image](https://github.com/user-attachments/assets/6cb54889-86b8-4d83-a26f-afde9311b6a7)
@@ -80,4 +84,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# ShopiFo
+
