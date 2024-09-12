@@ -15,7 +15,7 @@ class SuperAdminLoginController extends Controller
         return view('superadmin.login');
     }
 
-    public function login(Request $request)
+    public function login(Request $request) 
     {
         // Validate the request data
         $request->validate([
