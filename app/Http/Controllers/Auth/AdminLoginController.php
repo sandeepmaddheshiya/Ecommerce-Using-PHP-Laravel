@@ -13,7 +13,7 @@ class AdminLoginController extends Controller
     {
         return view('admin.admin_login');
     }
-
+ 
     public function login(Request $request)
     {
         // Validate the request data
